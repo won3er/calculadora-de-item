@@ -1,13 +1,13 @@
 # calculadora-de-item
-
-Calculadora simples, de item, em py. 
-
-Funções: 
-Adicione o item por nome;
-Adicione o valor do item; 
-Adicionar outro item y/n;
-Se sim, continuar aidcionando, se não, somar total.
-Somar total = 
-Listar quantidade de itens;
-Nome do item + Valor;
-Total dos itens adicionados. 
+ <br>
+Calculadora simples, de item, em py.   <br>
+ <br>
+Funções:  <br>
+Adicione o item por nome; <br>
+Adicione o valor do item;  <br>
+Adicionar outro item y/n; <br>
+Se sim, continuar aidcionando, se não, somar total.  <br>
+Somar total =  <br>
+Listar quantidade de itens;  <br>
+Nome do item + Valor;  <br> 
+Total dos itens adicionados.  <br> 
